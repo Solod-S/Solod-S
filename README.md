@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi everyone, my name's Sergey👋
+
+---
 
 🌱 I’m currently learning html, css and javascript.
 🏋️ Workout everyday!
+
+---
 
 ### Languages and Tools
 
