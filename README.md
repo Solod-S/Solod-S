@@ -15,7 +15,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-05343A?style=for-the-badge&logo=telegram&logoColor=4867AA)](https://t.me/not_your_user_name)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-05343A?style=for-the-badge&logo=LinkedIn&logoColor=0A63BC)](https://www.facebook.com/sergsolik)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solod-S)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solod-S&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Header](https://github.com/Solod-S/Solod-S/blob/main/assets/full2.png) -->
 
