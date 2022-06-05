@@ -1,4 +1,4 @@
-![Header](https://github.com/Solod-S/Solod-S/blob/main/assets/full.png)
+![Header](https://github.com/Solod-S/Solod-S/blob/main/assets/full2.png)
 
 ### Hi there 👋
 
