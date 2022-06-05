@@ -6,6 +6,10 @@
 🏋️ Workout everyday!
 
 Languages and Tools
+![Flutter](https://img.shields.io/badge/-JS-05343A?style=for-the-badge&logo=javascript&logoColor=50886C)
+![HTML](https://img.shields.io/badge/-CSS-05343A?style=for-the-badge&logo=CSS3&logoColor=F4CA16)
+![HTML](https://img.shields.io/badge/-HTML-05343A?style=for-the-badge&logo=html5&logoColor=EB4C42)
+![HTML](https://img.shields.io/badge/-HTML-05343A?style=for-the-badge&logo=html5&logoColor=EB4C42)
 
 Follow Me
 
