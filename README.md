@@ -1,5 +1,3 @@
-![Header](https://github.com/Solod-S/Solod-S/blob/main/assets/full2.png)
-
 ### Hi there 👋
 
 🌱 I’m currently learning html, css and javascript.
@@ -13,6 +11,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05343A?style=for-the-badge&logo=html5&logoColor=EB4C42)
 
 Follow Me
+
+![Header](https://github.com/Solod-S/Solod-S/blob/main/assets/full2.png)
 
 <!--
 ### Hi there 👋
