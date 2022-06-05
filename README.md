@@ -1,4 +1,4 @@
-![Header](https://github.com/Solod-S/Solod-S/blob/main/assets/Full-Stack-Developer-Roadmap.png)
+![Header](https://github.com/Solod-S/Solod-S/blob/main/assets/full.png)
 
 ### Hi there 👋
 
