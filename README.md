@@ -1,6 +1,8 @@
 ![Header](https://github.com/Solod-S/Solod-S/blob/main/assets/Full-Stack-Developer-Roadmap.png)
 
-About me
+### Hi there 👋
+
+🌱 I’m currently learning Html,Css and JavaScript
 
 Languages and Tools
 
