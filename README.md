@@ -1,5 +1,5 @@
+---
 ### Hi everyone, my name's Sergey👋
-
 ---
 
 🌱 I’m currently learning html, css and javascript.
