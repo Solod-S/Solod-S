@@ -15,7 +15,7 @@
 ### I'm learning
 
 ![JS](https://img.shields.io/badge/-JS-F6F8FA?style=for-the-badge&logo=javascript&logoColor=F3CF01)
-![TypeScript](https://img.shields.io/badge/-TypeScript-F6F8FA?style=for-the-badge&logo=typescript&logoColor=F6F8FA)
+![TypeScript](https://img.shields.io/badge/-TypeScript-F6F8FA?style=for-the-badge&logo=typescript&logoColor=0068BA)
 ![React](https://img.shields.io/badge/-react-F6F8FA?style=for-the-badge&logo=react&logoColor=0CD8EA)
 ![Node.js](https://img.shields.io/badge/-Node.js-F6F8FA?style=for-the-badge&logo=Node.js&logoColor=669C59)
 ![Create React App](https://img.shields.io/badge/-ReactNative-F6F8FA?style=for-the-badge&logo=createreactapp&logoColor=0396DE)
