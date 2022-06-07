@@ -9,25 +9,25 @@
 
 ### Languages and Tools
 
-![CSS](https://img.shields.io/badge/-CSS-05343A?style=for-the-badge&logo=CSS3&logoColor=F4CA16)
+![CSS](https://img.shields.io/badge/-CSS-05343A?style=for-the-badge&logo=CSS3&logoColor=0068BA)
 ![HTML](https://img.shields.io/badge/-HTML-05343A?style=for-the-badge&logo=html5&logoColor=EB4C42)
 
 ### I'm learning
 
-![JS](https://img.shields.io/badge/-JS-05343A?style=for-the-badge&logo=javascript&logoColor=50886C)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05343A?style=for-the-badge&logo=typescript&logoColor=EB4C42)
-![React](https://img.shields.io/badge/-react-05343A?style=for-the-badge&logo=react&logoColor=50886C)
-![Node.js](https://img.shields.io/badge/-Node.js-05343A?style=for-the-badge&logo=Node.js&logoColor=50886C)
-![Create React App](https://img.shields.io/badge/-ReactNative-05343A?style=for-the-badge&logo=createreactapp&logoColor=EB4C42)
+![JS](https://img.shields.io/badge/-JS-05343A?style=for-the-badge&logo=javascript&logoColor=F3CF01)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05343A?style=for-the-badge&logo=typescript&logoColor=2F74C0)
+![React](https://img.shields.io/badge/-react-05343A?style=for-the-badge&logo=react&logoColor=0CD8EA)
+![Node.js](https://img.shields.io/badge/-Node.js-05343A?style=for-the-badge&logo=Node.js&logoColor=669C59)
+![Create React App](https://img.shields.io/badge/-ReactNative-05343A?style=for-the-badge&logo=createreactapp&logoColor=0396DE)
 
 ### My tools
 
-![GitHub](https://img.shields.io/badge/-VsCode-05343A?style=for-the-badge&logo=github&logoColor=EB4C42)
-![Visual Studio Code](https://img.shields.io/badge/-VsCode-05343A?style=for-the-badge&logo=visualstudiocode&logoColor=EB4C42)
-![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-05343A?style=for-the-badge&logo=adobephotoshop&logoColor=EB4C42)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-05343A?style=for-the-badge&logo=adobelightroom&logoColor=EB4C42)
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05343A?style=for-the-badge&logo=adobeillustrator&logoColor=EB4C42)
-![Adobe Illustrator](https://img.shields.io/badge/-Figma-05343A?style=for-the-badge&logo=figma&logoColor=EB4C42)
+![GitHub](https://img.shields.io/badge/-VsCode-05343A?style=for-the-badge&logo=github&logoColor=171A1F)
+![Visual Studio Code](https://img.shields.io/badge/-VsCode-05343A?style=for-the-badge&logo=visualstudiocode&logoColor=289BEA)
+![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-05343A?style=for-the-badge&logo=adobephotoshop&logoColor=2FA3F7)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-05343A?style=for-the-badge&logo=adobelightroom&logoColor=2FA3F7)
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05343A?style=for-the-badge&logo=adobeillustrator&logoColor=F79500)
+![Adobe Figma](https://img.shields.io/badge/-Figma-05343A?style=for-the-badge&logo=figma&logoColor=9D56F7)
 
 ### Follow Me
 
