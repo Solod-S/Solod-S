@@ -22,7 +22,7 @@
 
 ### My tools
 
-![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=171A1F)
+![GitHub](https://img.shields.io/badge/-GitHub-F6F8FA?style=for-the-badge&logo=github&logoColor=171A1F)
 ![Visual Studio Code](https://img.shields.io/badge/-VsCode-F6F8FA?style=for-the-badge&logo=visualstudiocode&logoColor=289BEA)
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-F6F8FA?style=for-the-badge&logo=adobephotoshop&logoColor=2FA3F7)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-F6F8FA?style=for-the-badge&logo=adobelightroom&logoColor=2FA3F7)
