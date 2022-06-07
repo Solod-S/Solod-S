@@ -9,8 +9,8 @@
 
 ### Languages and Tools
 
-![CSS](https://img.shields.io/badge/-CSS-F6F8FA?style=for-the-badge&logo=CSS3&logoColor=0068BA)
 ![HTML](https://img.shields.io/badge/-HTML-F6F8FA?style=for-the-badge&logo=html5&logoColor=EB4C42)
+![CSS](https://img.shields.io/badge/-CSS-F6F8FA?style=for-the-badge&logo=CSS3&logoColor=0068BA)
 
 ### I'm learning
 
