@@ -7,14 +7,14 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solod-S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages/Tools and etc.
 
 ![HTML](https://img.shields.io/badge/-HTML-F6F8FA?style=for-the-badge&logo=html5&logoColor=EB4C42)
 ![CSS](https://img.shields.io/badge/-CSS-F6F8FA?style=for-the-badge&logo=CSS3&logoColor=0068BA)
 ![SASS](https://img.shields.io/badge/-SASS-F6F8FA?style=for-the-badge&logo=SASS&logoColor=c66394)
 ![BEM](https://img.shields.io/badge/-BEM-F6F8FA?style=for-the-badge&logo=bem&logoColor=2E99D1)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solod-S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I'm learning
 
