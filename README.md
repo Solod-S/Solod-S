@@ -59,8 +59,6 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
             alt="dino"
         />
 
----
-
 <!-- ![Header](https://github.com/Solod-S/Solod-S/blob/main/assets/full2.png) -->
 
 <!--
