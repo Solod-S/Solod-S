@@ -2,8 +2,7 @@
 ### Hi everyone, my name's Sergey👋
 ---
 
-🌱 I’m currently learning html, css and javascript.
-🏋️ Workout everyday!
+Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently learning html, css and javascript. Workout everyday! I want to become professional web development.
 
 ---
 
@@ -16,6 +15,8 @@
 ![SASS](https://img.shields.io/badge/-SASS-F6F8FA?style=for-the-badge&logo=SASS&logoColor=c66394)
 ![BEM](https://img.shields.io/badge/-BEM-F6F8FA?style=for-the-badge&logo=bem&logoColor=2E99D1)
 
+---
+
 ### I'm learning
 
 ![JS](https://img.shields.io/badge/-JS-F6F8FA?style=for-the-badge&logo=javascript&logoColor=F3CF01)
@@ -23,6 +24,8 @@
 ![React](https://img.shields.io/badge/-react-F6F8FA?style=for-the-badge&logo=react&logoColor=0CD8EA)
 ![Node.js](https://img.shields.io/badge/-Node.js-F6F8FA?style=for-the-badge&logo=Node.js&logoColor=669C59)
 ![Create React App](https://img.shields.io/badge/-ReactNative-F6F8FA?style=for-the-badge&logo=createreactapp&logoColor=0396DE)
+
+---
 
 ### My tools
 
@@ -35,13 +38,28 @@
 ![Adobe Lightroom](https://img.shields.io/badge/-Photoshop-F6F8FA?style=for-the-badge&logo=adobephotoshop&logoColor=2FA3F7)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-F6F8FA?style=for-the-badge&logo=adobeillustrator&logoColor=F79500)
 
+---
+
 ### Follow Me
 
 [![Facebook](https://img.shields.io/badge/-Facebook-F6F8FA?style=for-the-badge&logo=Facebook&logoColor=4867AA)](https://www.facebook.com/sergsolik)
 [![Telegram](https://img.shields.io/badge/-Telegram-F6F8FA?style=for-the-badge&logo=telegram&logoColor=4867AA)](https://t.me/not_your_user_name)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-F6F8FA?style=for-the-badge&logo=LinkedIn&logoColor=0A63BC)](https://www.facebook.com/sergsolik)
 
+---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solod-S&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Solod-S&bg_color=fff&color=000&line=5698F0&point=000&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<img
+            src="./img/dino.gif"
+            alt="dino"
+        />
+
+---
 
 <!-- ![Header](https://github.com/Solod-S/Solod-S/blob/main/assets/full2.png) -->
 
