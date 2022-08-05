@@ -1,6 +1,6 @@
----
+<!-- ---
 ### Hi everyone, my name's Sergey👋
----
+--- -->
 
 Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently learning html, css and javascript. Workout everyday! I want to become professional web development.
 
