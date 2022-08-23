@@ -30,7 +30,9 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 ### My tools
 
 ![GitHub](https://img.shields.io/badge/-GitHub-F6F8FA?style=for-the-badge&logo=github&logoColor=171A1F)
+![GitBash](https://img.shields.io/badge/-GitBash-F6F8FA?style=for-the-badge&logo=gnubash&logoColor=171A1F)
 ![Visual Studio Code](https://img.shields.io/badge/-VsCode-F6F8FA?style=for-the-badge&logo=visualstudiocode&logoColor=289BEA)
+![Npn](https://img.shields.io/badge/-NPN-F6F8FA?style=for-the-badge&logo=npm&logoColor=171A1F)
 ![Parcel](https://img.shields.io/badge/-Parcel-F6F8FA?style=for-the-badge&logo=webpack&logoColor=E8C19C)
 ![Trello](https://img.shields.io/badge/-Trello-F6F8FA?style=for-the-badge&logo=Trello&logoColor=007FC8)
 ![Adobe Figma](https://img.shields.io/badge/-Figma-F6F8FA?style=for-the-badge&logo=figma&logoColor=9D56F7)
