@@ -36,11 +36,11 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 ![Npn](https://img.shields.io/badge/-NPN-F6F8FA?style=for-the-badge&logo=npm&logoColor=171A1F)
 ![Webpack](https://img.shields.io/badge/-Webpack-F6F8FA?style=for-the-badge&logo=webpack&logoColor=1B74BA)
 ![Parcel](https://img.shields.io/badge/-Parcel-F6F8FA?style=for-the-badge&logo=webpack&logoColor=E8C19C)
-![Postman](https://img.shields.io/badge/-Postman-F6F8FA?style=for-the-badge&logo=postman&logoColor=E8C19C)
-![Trello](https://img.shields.io/badge/-Trello-F6F8FA?style=for-the-badge&logo=Trello&logoColor=FF6C37)
+![Postman](https://img.shields.io/badge/-Postman-F6F8FA?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Trello](https://img.shields.io/badge/-Trello-F6F8FA?style=for-the-badge&logo=Trello&logoColor=007FC8)
 ![Adobe Figma](https://img.shields.io/badge/-Figma-F6F8FA?style=for-the-badge&logo=figma&logoColor=9D56F7)
-![Adobe Photoshop](https://img.shields.io/badge/-Lightroom-F6F8FA?style=for-the-badge&logo=adobelightroom&logoColor=2FA3F7)
-![Adobe Lightroom](https://img.shields.io/badge/-Photoshop-F6F8FA?style=for-the-badge&logo=adobephotoshop&logoColor=2FA3F7)
+![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-F6F8FA?style=for-the-badge&logo=adobelightroom&logoColor=032126)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-F6F8FA?style=for-the-badge&logo=adobephotoshop&logoColor=001C33)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-F6F8FA?style=for-the-badge&logo=adobeillustrator&logoColor=F79500)
 
 ---
