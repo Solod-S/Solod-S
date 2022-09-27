@@ -23,7 +23,7 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F6F8FA?style=for-the-badge&logo=typescript&logoColor=0068BA)
 ![React](https://img.shields.io/badge/-react-F6F8FA?style=for-the-badge&logo=react&logoColor=0CD8EA)
 ![Node.js](https://img.shields.io/badge/-Node.js-F6F8FA?style=for-the-badge&logo=Node.js&logoColor=669C59)
-![Create React App](https://img.shields.io/badge/-ReactNative-F6F8FA?style=for-the-badge&logo=createreactapp&logoColor=0396DE)
+![ReactNative](https://img.shields.io/badge/-ReactNative-F6F8FA?style=for-the-badge&logo=createreactapp&logoColor=0396DE)
 
 ---
 
@@ -36,6 +36,7 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 ![Npn](https://img.shields.io/badge/-NPN-F6F8FA?style=for-the-badge&logo=npm&logoColor=171A1F)
 ![Webpack](https://img.shields.io/badge/-Webpack-F6F8FA?style=for-the-badge&logo=webpack&logoColor=1B74BA)
 ![Parcel](https://img.shields.io/badge/-Parcel-F6F8FA?style=for-the-badge&logo=webpack&logoColor=E8C19C)
+![Create React App](https://img.shields.io/badge/-createreactapp-F6F8FA?style=for-the-badge&logo=createreactapp&logoColor=63D1EE)
 ![Postman](https://img.shields.io/badge/-Postman-F6F8FA?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Trello](https://img.shields.io/badge/-Trello-F6F8FA?style=for-the-badge&logo=Trello&logoColor=007FC8)
 ![Adobe Figma](https://img.shields.io/badge/-Figma-F6F8FA?style=for-the-badge&logo=figma&logoColor=9D56F7)
