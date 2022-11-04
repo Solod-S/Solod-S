@@ -15,13 +15,14 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 ![SASS](https://img.shields.io/badge/-SASS-F6F8FA?style=for-the-badge&logo=SASS&logoColor=c66394)
 ![BEM](https://img.shields.io/badge/-BEM-F6F8FA?style=for-the-badge&logo=bem&logoColor=2E99D1)
 ![JS](https://img.shields.io/badge/-JS-F6F8FA?style=for-the-badge&logo=javascript&logoColor=F3CF01)
+![React](https://img.shields.io/badge/-react-F6F8FA?style=for-the-badge&logo=react&logoColor=0CD8EA)
 
 ---
 
 ### I'm learning
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F6F8FA?style=for-the-badge&logo=typescript&logoColor=0068BA)
-![React](https://img.shields.io/badge/-react-F6F8FA?style=for-the-badge&logo=react&logoColor=0CD8EA)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-F6F8FA?style=for-the-badge&logo=Node.js&logoColor=669C59)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-F6F8FA?style=for-the-badge&logo=createreactapp&logoColor=0396DE)
 
