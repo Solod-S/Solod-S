@@ -8,14 +8,16 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solod-S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Languages/Tools and etc.
+### Languages/Libraries and etc.
 
+![REACT](https://img.shields.io/badge/-react-F6F8FA?style=for-the-badge&logo=react&logoColor=0CD8EA)
+![REDUX](https://img.shields.io/badge/-REDUX-F6F8FA?style=for-the-badge&logo=redux&logoColor=764EB0)
+![REACT-ROUTER](https://img.shields.io/badge/-REACTROUTER-F6F8FA?style=for-the-badge&logo=reactrouter&logoColor=C5021A)
+![JS](https://img.shields.io/badge/-JS-F6F8FA?style=for-the-badge&logo=javascript&logoColor=F3CF01)
 ![HTML](https://img.shields.io/badge/-HTML-F6F8FA?style=for-the-badge&logo=html5&logoColor=EB4C42)
 ![CSS](https://img.shields.io/badge/-CSS-F6F8FA?style=for-the-badge&logo=CSS3&logoColor=0068BA)
 ![SASS](https://img.shields.io/badge/-SASS-F6F8FA?style=for-the-badge&logo=SASS&logoColor=c66394)
 ![BEM](https://img.shields.io/badge/-BEM-F6F8FA?style=for-the-badge&logo=bem&logoColor=2E99D1)
-![JS](https://img.shields.io/badge/-JS-F6F8FA?style=for-the-badge&logo=javascript&logoColor=F3CF01)
-![React](https://img.shields.io/badge/-react-F6F8FA?style=for-the-badge&logo=react&logoColor=0CD8EA)
 
 ---
 
@@ -33,18 +35,18 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 ![GitBash](https://img.shields.io/badge/-GitBash-F6F8FA?style=for-the-badge&logo=gnubash&logoColor=171A1F)
 ![PowerShell](https://img.shields.io/badge/-powershell-F6F8FA?style=for-the-badge&logo=powershell&logoColor=171A1F)
 ![Visual Studio Code](https://img.shields.io/badge/-VsCode-F6F8FA?style=for-the-badge&logo=visualstudiocode&logoColor=289BEA)
-![Npn](https://img.shields.io/badge/-NPN-F6F8FA?style=for-the-badge&logo=npm&logoColor=171A1F)
 ![Webpack](https://img.shields.io/badge/-Webpack-F6F8FA?style=for-the-badge&logo=webpack&logoColor=1B74BA)
 ![Parcel](https://img.shields.io/badge/-Parcel-F6F8FA?style=for-the-badge&logo=webpack&logoColor=E8C19C)
 ![Create React App](https://img.shields.io/badge/-createreactapp-F6F8FA?style=for-the-badge&logo=createreactapp&logoColor=63D1EE)
-![Postman](https://img.shields.io/badge/-Postman-F6F8FA?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Trello](https://img.shields.io/badge/-Trello-F6F8FA?style=for-the-badge&logo=Trello&logoColor=007FC8)
 ![Adobe Figma](https://img.shields.io/badge/-Figma-F6F8FA?style=for-the-badge&logo=figma&logoColor=9D56F7)
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-F6F8FA?style=for-the-badge&logo=adobelightroom&logoColor=032126)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-F6F8FA?style=for-the-badge&logo=adobephotoshop&logoColor=001C33)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-F6F8FA?style=for-the-badge&logo=adobeillustrator&logoColor=F79500)
 
----
+<!-- ![Npn](https://img.shields.io/badge/-NPN-F6F8FA?style=for-the-badge&logo=npm&logoColor=171A1F) -->
+<!-- ![Postman](https://img.shields.io/badge/-Postman-F6F8FA?style=for-the-badge&logo=postman&logoColor=FF6C37) -->
+
+## <!-- ![Trello](https://img.shields.io/badge/-Trello-F6F8FA?style=for-the-badge&logo=Trello&logoColor=007FC8) -->
 
 ### Follow Me
 
