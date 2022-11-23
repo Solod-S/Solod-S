@@ -2,7 +2,7 @@
 ### Hi everyone, my name's Sergey👋
 --- -->
 
-Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently learning html, css and javascript. Workout everyday! I want to become professional web development.
+Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently learning javascript, react and node.js. Workout everyday! I want to become professional web development.
 
 ---
 
@@ -23,8 +23,9 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 
 ### I'm learning
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-F6F8FA?style=for-the-badge&logo=typescript&logoColor=0068BA)
 ![Node.js](https://img.shields.io/badge/-Node.js-F6F8FA?style=for-the-badge&logo=Node.js&logoColor=669C59)
+![Express](https://img.shields.io/badge/-Express-F6F8FA?style=for-the-badge&logo=express&logoColor=353535)
+![TypeScript](https://img.shields.io/badge/-TypeScript-F6F8FA?style=for-the-badge&logo=typescript&logoColor=0068BA)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-F6F8FA?style=for-the-badge&logo=createreactapp&logoColor=0396DE)
 
 ---
@@ -44,15 +45,16 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-F6F8FA?style=for-the-badge&logo=adobeillustrator&logoColor=F79500)
 
 <!-- ![Npn](https://img.shields.io/badge/-NPN-F6F8FA?style=for-the-badge&logo=npm&logoColor=171A1F) -->
-<!-- ![Postman](https://img.shields.io/badge/-Postman-F6F8FA?style=for-the-badge&logo=postman&logoColor=FF6C37) -->
+
+![Postman](https://img.shields.io/badge/-Postman-F6F8FA?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ## <!-- ![Trello](https://img.shields.io/badge/-Trello-F6F8FA?style=for-the-badge&logo=Trello&logoColor=007FC8) -->
 
 ### Follow Me
 
 [![Facebook](https://img.shields.io/badge/-Facebook-F6F8FA?style=for-the-badge&logo=Facebook&logoColor=4867AA)](https://www.facebook.com/sergsolik)
-[![Telegram](https://img.shields.io/badge/-Telegram-F6F8FA?style=for-the-badge&logo=telegram&logoColor=4867AA)](https://t.me/not_your_user_name)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-F6F8FA?style=for-the-badge&logo=LinkedIn&logoColor=0A63BC)](https://www.facebook.com/sergsolik)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-F6F8FA?style=for-the-badge&logo=LinkedIn&logoColor=0A63BC)](https://www.linkedin.com/in/serhii-solod-557991256/)
+[![Telegram](https://img.shields.io/badge/-Telegram-F6F8FA?style=for-the-badge&logo=telegram&logoColor=4867AA)](https://t.me/sergey_nicol)
 
 ---
 
