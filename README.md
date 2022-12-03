@@ -25,6 +25,7 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 
 ![Node.js](https://img.shields.io/badge/-Node.js-F6F8FA?style=for-the-badge&logo=Node.js&logoColor=669C59)
 ![Express](https://img.shields.io/badge/-Express-F6F8FA?style=for-the-badge&logo=express&logoColor=353535)
+![MongoDB](https://img.shields.io/badge/-MongoDB-F6F8FA?style=for-the-badge&logo=mongodb&logoColor=118D4D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F6F8FA?style=for-the-badge&logo=typescript&logoColor=0068BA)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-F6F8FA?style=for-the-badge&logo=createreactapp&logoColor=0396DE)
 
