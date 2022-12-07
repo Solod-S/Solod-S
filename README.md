@@ -44,10 +44,9 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-F6F8FA?style=for-the-badge&logo=adobelightroom&logoColor=032126)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-F6F8FA?style=for-the-badge&logo=adobephotoshop&logoColor=001C33)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-F6F8FA?style=for-the-badge&logo=adobeillustrator&logoColor=F79500)
+![Postman](https://img.shields.io/badge/-Postman-F6F8FA?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 <!-- ![Npn](https://img.shields.io/badge/-NPN-F6F8FA?style=for-the-badge&logo=npm&logoColor=171A1F) -->
-
-![Postman](https://img.shields.io/badge/-Postman-F6F8FA?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ## <!-- ![Trello](https://img.shields.io/badge/-Trello-F6F8FA?style=for-the-badge&logo=Trello&logoColor=007FC8) -->
 
