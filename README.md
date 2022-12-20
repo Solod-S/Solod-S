@@ -9,6 +9,7 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solod-S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages/Libraries and etc.
+
 ![JS](https://img.shields.io/badge/-JS-F6F8FA?style=for-the-badge&logo=javascript&logoColor=F3CF01)
 ![REACT](https://img.shields.io/badge/-react-F6F8FA?style=for-the-badge&logo=react&logoColor=0CD8EA)
 ![REDUX](https://img.shields.io/badge/-REDUX-F6F8FA?style=for-the-badge&logo=redux&logoColor=764EB0)
@@ -24,6 +25,7 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 ---
 
 ### I'm learning
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F6F8FA?style=for-the-badge&logo=typescript&logoColor=0068BA)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-F6F8FA?style=for-the-badge&logo=createreactapp&logoColor=0396DE)
 
@@ -43,15 +45,14 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-F6F8FA?style=for-the-badge&logo=adobephotoshop&logoColor=001C33)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-F6F8FA?style=for-the-badge&logo=adobeillustrator&logoColor=F79500)
 ![Postman](https://img.shields.io/badge/-Postman-F6F8FA?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
-<!-- ![Npn](https://img.shields.io/badge/-NPN-F6F8FA?style=for-the-badge&logo=npm&logoColor=171A1F) -->
+![Npn](https://img.shields.io/badge/-NPN-F6F8FA?style=for-the-badge&logo=npm&logoColor=171A1F)
 
 ## <!-- ![Trello](https://img.shields.io/badge/-Trello-F6F8FA?style=for-the-badge&logo=Trello&logoColor=007FC8) -->
 
 ### Follow Me
 
-[![Facebook](https://img.shields.io/badge/-Facebook-F6F8FA?style=for-the-badge&logo=Facebook&logoColor=4867AA)](https://www.facebook.com/sergsolik)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-F6F8FA?style=for-the-badge&logo=LinkedIn&logoColor=0A63BC)](https://www.linkedin.com/in/serhii-solod-557991256/)
+[![Facebook](https://img.shields.io/badge/-Facebook-F6F8FA?style=for-the-badge&logo=Facebook&logoColor=4867AA)](https://www.facebook.com/sergsolik)
 [![Telegram](https://img.shields.io/badge/-Telegram-F6F8FA?style=for-the-badge&logo=telegram&logoColor=4867AA)](https://t.me/sergey_nicol)
 
 ---
