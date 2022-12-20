@@ -9,11 +9,13 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solod-S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages/Libraries and etc.
-
+![JS](https://img.shields.io/badge/-JS-F6F8FA?style=for-the-badge&logo=javascript&logoColor=F3CF01)
 ![REACT](https://img.shields.io/badge/-react-F6F8FA?style=for-the-badge&logo=react&logoColor=0CD8EA)
 ![REDUX](https://img.shields.io/badge/-REDUX-F6F8FA?style=for-the-badge&logo=redux&logoColor=764EB0)
 ![REACT-ROUTER](https://img.shields.io/badge/-REACTROUTER-F6F8FA?style=for-the-badge&logo=reactrouter&logoColor=C5021A)
-![JS](https://img.shields.io/badge/-JS-F6F8FA?style=for-the-badge&logo=javascript&logoColor=F3CF01)
+![Node.js](https://img.shields.io/badge/-Node.js-F6F8FA?style=for-the-badge&logo=Node.js&logoColor=669C59)
+![Express](https://img.shields.io/badge/-Express-F6F8FA?style=for-the-badge&logo=express&logoColor=353535)
+![MongoDB](https://img.shields.io/badge/-MongoDB-F6F8FA?style=for-the-badge&logo=mongodb&logoColor=118D4D)
 ![HTML](https://img.shields.io/badge/-HTML-F6F8FA?style=for-the-badge&logo=html5&logoColor=EB4C42)
 ![CSS](https://img.shields.io/badge/-CSS-F6F8FA?style=for-the-badge&logo=CSS3&logoColor=0068BA)
 ![SASS](https://img.shields.io/badge/-SASS-F6F8FA?style=for-the-badge&logo=SASS&logoColor=c66394)
@@ -22,10 +24,6 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 ---
 
 ### I'm learning
-
-![Node.js](https://img.shields.io/badge/-Node.js-F6F8FA?style=for-the-badge&logo=Node.js&logoColor=669C59)
-![Express](https://img.shields.io/badge/-Express-F6F8FA?style=for-the-badge&logo=express&logoColor=353535)
-![MongoDB](https://img.shields.io/badge/-MongoDB-F6F8FA?style=for-the-badge&logo=mongodb&logoColor=118D4D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F6F8FA?style=for-the-badge&logo=typescript&logoColor=0068BA)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-F6F8FA?style=for-the-badge&logo=createreactapp&logoColor=0396DE)
 
