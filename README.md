@@ -27,7 +27,8 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 ### I'm learning
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F6F8FA?style=for-the-badge&logo=typescript&logoColor=0068BA)
-![ReactNative](https://img.shields.io/badge/-ReactNative-F6F8FA?style=for-the-badge&logo=createreactapp&logoColor=0396DE)
+![ReactNative](https://img.shields.io/badge/-ReactNative-F6F8FA?style=for-the-badge&logo=react&logoColor=0396DE)
+![Expo](https://img.shields.io/badge/-Expo-F6F8FA?style=for-the-badge&logo=expo&logoColor=106DAD)
 
 ---
 
@@ -37,6 +38,7 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 ![GitBash](https://img.shields.io/badge/-GitBash-F6F8FA?style=for-the-badge&logo=gnubash&logoColor=171A1F)
 ![PowerShell](https://img.shields.io/badge/-powershell-F6F8FA?style=for-the-badge&logo=powershell&logoColor=171A1F)
 ![Visual Studio Code](https://img.shields.io/badge/-VsCode-F6F8FA?style=for-the-badge&logo=visualstudiocode&logoColor=289BEA)
+![Android Studio](https://img.shields.io/badge/-androidstudio-F6F8FA?style=for-the-badge&logo=androidstudio&logoColor=3AD17D)
 ![Webpack](https://img.shields.io/badge/-Webpack-F6F8FA?style=for-the-badge&logo=webpack&logoColor=1B74BA)
 ![Parcel](https://img.shields.io/badge/-Parcel-F6F8FA?style=for-the-badge&logo=webpack&logoColor=E8C19C)
 ![Create React App](https://img.shields.io/badge/-createreactapp-F6F8FA?style=for-the-badge&logo=createreactapp&logoColor=63D1EE)
