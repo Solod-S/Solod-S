@@ -27,8 +27,10 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 ---
 
 ### I'm learning
-![TypeScript](https://img.shields.io/badge/-TypeScript-F6F8FA?style=for-the-badge&logo=typescript&logoColor=0068BA)
 
+![Nuxt](https://img.shields.io/badge/-Nuxt-F6F8FA?style=for-the-badge&logo=nuxtdotjs&logoColor=3EAF7C)
+![Vue](https://img.shields.io/badge/-VUE-F6F8FA?style=for-the-badge&logo=vuedotjs&logoColor=3EAF7C)
+![TypeScript](https://img.shields.io/badge/-TypeScript-F6F8FA?style=for-the-badge&logo=typescript&logoColor=0068BA)
 
 ---
 
