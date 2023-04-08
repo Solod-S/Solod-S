@@ -56,7 +56,7 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 ### Follow Me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-F6F8FA?style=for-the-badge&logo=LinkedIn&logoColor=0A63BC)](https://www.linkedin.com/in/serhii-solod-557991256/)
-[![Facebook](https://img.shields.io/badge/-Facebook-F6F8FA?style=for-the-badge&logo=Facebook&logoColor=4867AA)](https://www.facebook.com/sergsolik)
+<!-- [![Facebook](https://img.shields.io/badge/-Facebook-F6F8FA?style=for-the-badge&logo=Facebook&logoColor=4867AA)](https://www.facebook.com/sergsolik) -->
 [![Telegram](https://img.shields.io/badge/-Telegram-F6F8FA?style=for-the-badge&logo=telegram&logoColor=4867AA)](https://t.me/sergey_nicol)
 
 ---
