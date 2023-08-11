@@ -64,6 +64,7 @@ Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently l
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Solod-S&bg_color=fff&color=000&line=5698F0&point=000&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Codewars Demo](https://www.codewars.com/users/Solod-S/badges/large?theme=light)
 ---
 
 <img
