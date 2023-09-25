@@ -2,7 +2,7 @@
 ### Hi everyone, my name's Sergey👋
 --- -->
 
-Hello 🖐️ friends, welcome to my github I am Solod Sergey. I’m currently learning javascript, react and node.js. Workout everyday! I want to become professional web development.
+I'm a JavaScript developer with experience in JS/React/NodeJS/React-Native. I'm currently located in Kiev. I look forward to hearing from you with any job opportunities.
 
 ---
 
