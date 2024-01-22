@@ -1,4 +1,12 @@
 {
   "spellright.language": ["ru"],
-  "spellright.documentTypes": ["latex", "plaintext"]
+  "spellright.documentTypes": [
+    "latex",
+    "plaintext"
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#21320D",
+    "titleBar.activeBackground": "#2E4712",
+    "titleBar.activeForeground": "#F7FCF2"
+  }
 }
