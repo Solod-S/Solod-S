@@ -21,7 +21,6 @@ Hello, I'm a Full-Stack Developer with experience in JS / TS / React / GoogleExt
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-F6F8FA?style=for-the-badge&logo=styled-components&logoColor=C5021A)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-F6F8FA?style=for-the-badge&logo=framer&logoColor=000000)
 ![Ant Design](https://img.shields.io/badge/-Ant_Design-F6F8FA?style=for-the-badge&logo=antdesign&logoColor=0170FE)
-![Jest](https://img.shields.io/badge/-Jest-F6F8FA?style=for-the-badge&logo=jest&logoColor=C5021A)
 
 ---
 
