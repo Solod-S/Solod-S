@@ -21,6 +21,8 @@ Hello, I'm a Full-Stack Developer with experience in JS / TS / React / GoogleExt
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-F6F8FA?style=for-the-badge&logo=styled-components&logoColor=C5021A)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-F6F8FA?style=for-the-badge&logo=framer&logoColor=000000)
 ![Ant Design](https://img.shields.io/badge/-Ant_Design-F6F8FA?style=for-the-badge&logo=antdesign&logoColor=0170FE)
+![GraphQL](https://img.shields.io/badge/-GraphQL-F6F8FA?style=for-the-badge&logo=graphql&logoColor=E10098)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-F6F8FA?style=for-the-badge&logo=apollographql&logoColor=311C87)
 
 ---
 
@@ -30,6 +32,8 @@ Hello, I'm a Full-Stack Developer with experience in JS / TS / React / GoogleExt
 ![Express](https://img.shields.io/badge/-Express-F6F8FA?style=for-the-badge&logo=express&logoColor=353535)
 ![NestJS](https://img.shields.io/badge/-NestJS-F6F8FA?style=for-the-badge&logo=nestjs&logoColor=D9224C)
 ![PassportJS](https://img.shields.io/badge/-PassportJS-F6F8FA?style=for-the-badge&logo=passport&logoColor=34E27A)
+![GraphQL](https://img.shields.io/badge/-GraphQL-F6F8FA?style=for-the-badge&logo=graphql&logoColor=E10098)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-F6F8FA?style=for-the-badge&logo=apollographql&logoColor=311C87)
 
 ---
 
@@ -41,6 +45,7 @@ Hello, I'm a Full-Stack Developer with experience in JS / TS / React / GoogleExt
 ![Axios](https://img.shields.io/badge/-Axios-F6F8FA?style=for-the-badge&logo=axios&logoColor=5B25E7)
 ![Jest](https://img.shields.io/badge/-Jest-F6F8FA?style=for-the-badge&logo=jest&logoColor=C5021A)
 ![SuperTest](https://img.shields.io/badge/-Super_Test-F6F8FA?style=for-the-badge&logo=testin&logoColor=669C59)
+![Storybook](https://img.shields.io/badge/-Storybook-F6F8FA?style=for-the-badge&logo=storybook&logoColor=FF4785)
 ![GitBash](https://img.shields.io/badge/-GitBash-F6F8FA?style=for-the-badge&logo=gnubash&logoColor=171A1F)
 ![PowerShell](https://img.shields.io/badge/-powershell-F6F8FA?style=for-the-badge&logo=powershell&logoColor=171A1F)
 ![Visual Studio Code](https://img.shields.io/badge/-VsCode-F6F8FA?style=for-the-badge&logo=visualstudiocode&logoColor=289BEA)
