@@ -16,11 +16,15 @@ Hello, I'm a Full-Stack Developer with experience in JS / TS / React / GoogleExt
 ### Libraries and frameworks for the frontend:
 
 ![React](https://img.shields.io/badge/-React-F6F8FA?style=for-the-badge&logo=react&logoColor=0CD8EA)
+![Next.js](https://img.shields.io/badge/-Next.js-F6F8FA?style=for-the-badge&logo=next.js&logoColor=000000)  
 ![Redux](https://img.shields.io/badge/-Redux-F6F8FA?style=for-the-badge&logo=redux&logoColor=764EB0)
+![Zustand](https://img.shields.io/badge/-Zustand-F6F8FA?style=for-the-badge&logo=zilch&logoColor=FF3A00)
 ![React Router](https://img.shields.io/badge/-React_Router-F6F8FA?style=for-the-badge&logo=reactrouter&logoColor=C5021A)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-F6F8FA?style=for-the-badge&logo=styled-components&logoColor=C5021A)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-F6F8FA?style=for-the-badge&logo=framer&logoColor=000000)
 ![Ant Design](https://img.shields.io/badge/-Ant_Design-F6F8FA?style=for-the-badge&logo=antdesign&logoColor=0170FE)
+![Material UI](https://img.shields.io/badge/-Material_UI-F6F8FA?style=for-the-badge&logo=mui&logoColor=007FFF)
+![shadcn](https://img.shields.io/badge/-shadcn-F6F8FA?style=for-the-badge&logo=shadcnui&logoColor=000000)  
 ![GraphQL](https://img.shields.io/badge/-GraphQL-F6F8FA?style=for-the-badge&logo=graphql&logoColor=E10098)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-F6F8FA?style=for-the-badge&logo=apollographql&logoColor=311C87)
 
