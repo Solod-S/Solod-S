@@ -16,8 +16,8 @@ Hello, I'm a Full-Stack Developer with experience in JS / TS / React / GoogleExt
 ### Libraries and frameworks for the frontend:
 
 ![React](https://img.shields.io/badge/-React-F6F8FA?style=for-the-badge&logo=react&logoColor=0CD8EA)
-[![React Native](https://img.shields.io/badge/Runs%20with%20React%20Native-000.svg?style=flat-square&logo=react&labelColor=f3f3f3&logoColor=61DAFB)](https://reactnative.dev/)
-[![Expo](https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=expo&labelColor=f3f3f3&logoColor=000020)](https://expo.dev/)
+![React Native](https://img.shields.io/badge/-React%20Native-F6F8FA?style=for-the-badge&logo=react&logoColor=0CD8EA)
+![Expo](https://img.shields.io/badge/-Expo-F6F8FA?style=for-the-badge&logo=expo&logoColor=000020)
 ![Next.js](https://img.shields.io/badge/-Next.js-F6F8FA?style=for-the-badge&logo=next.js&logoColor=000000)  
 ![Redux](https://img.shields.io/badge/-Redux-F6F8FA?style=for-the-badge&logo=redux&logoColor=764EB0)
 ![Zustand](https://img.shields.io/badge/-Zustand-F6F8FA?style=for-the-badge&logo=zilch&logoColor=FF3A00)
