@@ -1,4 +1,4 @@
-### Full-Stack Developer
+### 💻 Full-Stack Developer
 
 Full-Stack Developer (Node.js / React) focused on building scalable APIs, automation systems, and integrations.
 
@@ -7,18 +7,20 @@ Full-Stack Developer (Node.js / React) focused on building scalable APIs, automa
 
 ---
 
+### 📊 GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solod-S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### Programming languages:
+### 🚀 Programming languages:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F6F8FA?style=for-the-badge&logo=javascript&logoColor=F3CF01)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F6F8FA?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
 ---
 
-### Libraries and frameworks for the frontend:
+### ⚙️ Libraries and frameworks for the frontend:
 
 ![React](https://img.shields.io/badge/-React-F6F8FA?style=for-the-badge&logo=react&logoColor=0CD8EA)
 ![React Native](https://img.shields.io/badge/-React%20Native-F6F8FA?style=for-the-badge&logo=react&logoColor=0CD8EA)
@@ -37,7 +39,7 @@ Full-Stack Developer (Node.js / React) focused on building scalable APIs, automa
 
 ---
 
-### Libraries and frameworks for the backend:
+### 🛠 Libraries and frameworks for the backend:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-F6F8FA?style=for-the-badge&logo=Node.js&logoColor=669C59)
 ![Express](https://img.shields.io/badge/-Express-F6F8FA?style=for-the-badge&logo=express&logoColor=353535)
@@ -48,7 +50,7 @@ Full-Stack Developer (Node.js / React) focused on building scalable APIs, automa
 
 ---
 
-### Development Tools:
+### 🗄 Development Tools:
 
 ![GitHub](https://img.shields.io/badge/-GitHub-F6F8FA?style=for-the-badge&logo=github&logoColor=171A1F)
 ![Swagger](https://img.shields.io/badge/-Swagger-F6F8FA?style=for-the-badge&logo=swagger&logoColor=85EA2D)
@@ -69,7 +71,7 @@ Full-Stack Developer (Node.js / React) focused on building scalable APIs, automa
 
 ---
 
-### Databases and data storage tools:
+### ☁️ Databases and data storage tools:
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-F6F8FA?style=for-the-badge&logo=PostgreSQL&logoColor=31648C)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-F6F8FA?style=for-the-badge&logo=mongodb&logoColor=118D4D)
@@ -79,14 +81,14 @@ Full-Stack Developer (Node.js / React) focused on building scalable APIs, automa
 
 ---
 
-### Tools for deploying and managing infrastructure:
+### 🧰 Tools for deploying and managing infrastructure:
 
 ![Docker](https://img.shields.io/badge/-Docker-F6F8FA?style=for-the-badge&logo=docker&logoColor=1D63ED)
 ![NGINX](https://img.shields.io/badge/-NGINX-F6F8FA?style=for-the-badge&logo=nginx&logoColor=009639)
 
 ---
 
-### APIs and integrations:
+### 🔌 APIs and integrations:
 
 ![OpenAI API](https://img.shields.io/badge/-OpenAI_API-F6F8FA?style=for-the-badge&logo=openai&logoColor=8C0808)
 ![Telegram Bot API](https://img.shields.io/badge/-Telegram_Bot_API-F6F8FA?style=for-the-badge&logo=telegram&logoColor=26A5E4)
@@ -99,7 +101,7 @@ Full-Stack Developer (Node.js / React) focused on building scalable APIs, automa
 
 ---
 
-### Other technologies:
+### 📦 Other technologies:
 
 ![HTML](https://img.shields.io/badge/-HTML-F6F8FA?style=for-the-badge&logo=html5&logoColor=EB4C42)
 ![CSS](https://img.shields.io/badge/-CSS-F6F8FA?style=for-the-badge&logo=CSS3&logoColor=0068BA)
