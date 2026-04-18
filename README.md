@@ -103,13 +103,6 @@ Hello, I'm a Full-Stack Developer with experience in JS / TS / React / GoogleExt
 
 ---
 
-### Follow Me
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-F6F8FA?style=for-the-badge&logo=LinkedIn&logoColor=0A63BC)](https://www.linkedin.com/in/serge-sol-557991256/)
-[![Site](https://img.shields.io/badge/-My_Site-F6F8FA?style=for-the-badge&logo=sitecore&logoColor=4867AA)](https://solod.netlify.app/)
-
----
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solod-S&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Solod-S&bg_color=fff&color=000&line=5698F0&point=000&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
