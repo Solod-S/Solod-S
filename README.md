@@ -1,4 +1,9 @@
-Hello, I'm a Full-Stack Developer with experience in JS / TS / React / GoogleExtension / NodeJS / Express / NestJS / Firebase / MongoDB / OpenAI. I look forward to hearing from you with any job opportunities.
+### Full-Stack Developer
+
+Full-Stack Developer (Node.js / React) focused on building scalable APIs, automation systems, and integrations.
+
+- Strong focus (Node.js, architecture, integrations)
+- Experience with AI-powered systems and automation
 
 ---
 
